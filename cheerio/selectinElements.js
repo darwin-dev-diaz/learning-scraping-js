@@ -17,7 +17,7 @@ const run = async () => {
 
   // selecting descendants. Here we select p that are children of divs
 
-  const 
+
 };
 
 run();

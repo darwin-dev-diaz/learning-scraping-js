@@ -2,9 +2,7 @@
   "name": "learning-scraping",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "author": "",
   "license": "ISC",
   "description": "",
@@ -12,5 +10,9 @@
     "cheerio": "^1.0.0",
     "chromedriver": "^131.0.4",
     "selenium-webdriver": "^4.27.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.2"
   }
 }
