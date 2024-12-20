@@ -1,0 +1,102 @@
+[
+ {
+  "users": "microsoft",
+  "repos": "playwright",
+  "url": "https://github.com/microsoft/playwright"
+ },
+ {
+  "users": "apify",
+  "repos": "crawlee",
+  "url": "https://github.com/apify/crawlee"
+ },
+ {
+  "users": "checkly",
+  "repos": "headless-recorder",
+  "url": "https://github.com/checkly/headless-recorder"
+ },
+ {
+  "users": "microsoft",
+  "repos": "playwright-python",
+  "url": "https://github.com/microsoft/playwright-python"
+ },
+ {
+  "users": "Skyvern-AI",
+  "repos": "skyvern",
+  "url": "https://github.com/Skyvern-AI/skyvern"
+ },
+ {
+  "users": "browserless",
+  "repos": "browserless",
+  "url": "https://github.com/browserless/browserless"
+ },
+ {
+  "users": "artilleryio",
+  "repos": "artillery",
+  "url": "https://github.com/artilleryio/artillery"
+ },
+ {
+  "users": "getmaxun",
+  "repos": "maxun",
+  "url": "https://github.com/getmaxun/maxun"
+ },
+ {
+  "users": "apify",
+  "repos": "crawlee-python",
+  "url": "https://github.com/apify/crawlee-python"
+ },
+ {
+  "users": "codeceptjs",
+  "repos": "CodeceptJS",
+  "url": "https://github.com/codeceptjs/CodeceptJS"
+ },
+ {
+  "users": "qawolf",
+  "repos": "qawolf",
+  "url": "https://github.com/qawolf/qawolf"
+ },
+ {
+  "users": "microsoft",
+  "repos": "dotnet-podcasts",
+  "url": "https://github.com/microsoft/dotnet-podcasts"
+ },
+ {
+  "users": "vogler",
+  "repos": "free-games-claimer",
+  "url": "https://github.com/vogler/free-games-claimer"
+ },
+ {
+  "users": "mishushakov",
+  "repos": "llm-scraper",
+  "url": "https://github.com/mishushakov/llm-scraper"
+ },
+ {
+  "users": "microsoft",
+  "repos": "playwright-dotnet",
+  "url": "https://github.com/microsoft/playwright-dotnet"
+ },
+ {
+  "users": "playwright-community",
+  "repos": "playwright-go",
+  "url": "https://github.com/playwright-community/playwright-go"
+ },
+ {
+  "users": "bjesus",
+  "repos": "pipet",
+  "url": "https://github.com/bjesus/pipet"
+ },
+ {
+  "users": "simonw",
+  "repos": "shot-scraper",
+  "url": "https://github.com/simonw/shot-scraper"
+ },
+ {
+  "users": "browserbase",
+  "repos": "stagehand",
+  "url": "https://github.com/browserbase/stagehand"
+ },
+ {
+  "users": "D4Vinci",
+  "repos": "Scrapling",
+  "url": "https://github.com/D4Vinci/Scrapling"
+ }
+]
